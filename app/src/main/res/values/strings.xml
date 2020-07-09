@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Presensi Acara</string>
+    <string name="title_activity_hom">Presensi Acara</string>
+    <string name="app_name_full">Sistem Informasi Presensi Acara</string>
+    <string name="nama_pembuat">: Rezal Wahyu Pratama</string>
+    <string name="npm">NPM</string>
+    <string name="npm_pembuat">: 17670024</string>
+    <string name="ketarangan">Keterangan</string>
+    <string name="ketarangan_value">
+        Aplikasi ini dibuat untuk mengimplementasikan aplikasi Pesensi QR web ke mobile APS, agar target user tidak kualahan untuk membuka browser dan masuk ke websitenya
+    </string>
+    <string name="cara_kerja">Cara Kerja</string>
+    <string name="cara_kerja_value">
+        Menu Daftar Presensi Berisi daftar Peserta yang datang ke acara dan yang belum \n\n
+        Jika peserta sudah datang ke acara maka tinggal klik datang, refresh manual dengan pindah ke home dan pindah lagi ke daftar presensi \n\n
+        Jika ingin menghapus, sentuh cardView atau kolom nama, akan muncul data peserta, dan ada tombol delete \n\n
+        Jika ingin menambahkan peserta, ada di menu tambah User \n\n
+        Jika ingin mengecek REST API dan WEBSITE ada di bawah \n\n
+        Sabar ya karena Free Hosting jadi sedikit lama
+    </string>
+    <string name="website">Website\nhttps://kecankgood.000webhostapp.com/</string>
+    <string name="ket_api">Keterangan API</string>
+    <string name="ket_api_val">Jika ingin kunjungi websitenya klik atas, dan jika ingin mengakses API klik di bawah</string>
+    <string name="api">REST API\nhttps://kecankgood.000webhostapp.com/api/api</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_tools">Tools</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_presence">Daftar Presensi</string>
+    <string name="title_tambah_user">Tambah User</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="nama">Nama</string>
+    <string name="noHp">No Hp</string>
+    <string name="kategori">Kategori</string>
+    <string name="institut">Institut</string>
+    <string name="noTiket">No Tiket</string>
+    <string name="idPanitia">ID Panitia</string>
+    <string name="tglInput">Tgl Input</string>
+    <string name="waktu">Waktu</string>
+    <string name="presence">Presensi</string>
+    <string name="datang">Datang</string>
+    <string name="simpan">Simpan</string>
+    <string name="delete">Delete</string>
+</resources>

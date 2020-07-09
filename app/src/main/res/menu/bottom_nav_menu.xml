@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_presence"
+        android:icon="@drawable/ic_presence"
+        android:title="@string/title_presence" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_tambah_user"
+        android:title="@string/title_tambah_user" />
+
+</menu>
